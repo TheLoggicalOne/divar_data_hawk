@@ -1,7 +1,7 @@
 # specific ignores
 train/
 dataset_dict.json
-real_state_data.csv
+real_state_ads.csv
 
 
 
