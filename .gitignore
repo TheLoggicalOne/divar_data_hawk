@@ -1,3 +1,10 @@
+# specific ignores
+train/
+dataset_dict.json
+real_state_data.csv
+
+
+
 # Ignore creds
 config.json
 config.json.tmp
